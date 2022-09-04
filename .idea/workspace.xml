@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fb6983a-19ee-4832-94c2-683ac01c3065" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/RocketMQ_Demo02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_76.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_boot_dubbo_spring_boot_starter_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_haproxy_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_memcache_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_mqtt_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_redis_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_smtp_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_stomp_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_xml_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_classes_macos_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_aarch_64_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_1_1_33_Fork26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_aarch_64_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_aarch_64_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_rxtx_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_sctp_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_udt_4_1_79_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_acl_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_acl_4_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_client_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_client_4_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_common_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_common_4_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_logging_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_logging_4_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_remoting_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_remoting_4_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_spring_boot_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_spring_boot_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_spring_boot_starter_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_spring_boot_starter_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_srvutil_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_srvutil_4_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_65.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_65.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_65.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ-02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ-03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/RocketMqApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/base/consumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/base/producer/ASyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/base/producer/OneWayProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/base/producer/SyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/batch/consumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/batch/producer/SyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/delay/consumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/delay/producer/SyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/filter/sql/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/filter/sql/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/filter/tag/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/filter/tag/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/listener/RockListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/order/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/order/OrderStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/order/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/transaction/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/com/shf/rocketmq/transaction/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RocketMQ/src/test/java/com/shf/rocketmq/RocketMqApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/12.支付后回调.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2m2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Broker故障延迟机制核心类.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ConsumeMessageService.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/DefaultMQProducer属性.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/DefaultMQProducer类图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/DefaultMQPushConsumer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/DefaultMessageStore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/DispatchRequest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/GroupCommitRequest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KV存储.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/MQAdmin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/MQProducer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/MQ比较.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/MappedFile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/MappedFileQueue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/MySQL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/NameServer启动流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/NameServer处理路由注册.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/NameServer小结.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ProcessQueue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/PullRequest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/PullResultExt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/PullStatus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/RocketMQ角色.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/RocketMQ集群.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/RocketMQ集群比较.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Rocketmq高可用.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Shop系统图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Topic路由信息.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/TransientStorePool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/broker路由注册.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/consumer负载均衡.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/consumer负载均衡2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/consumer负载均衡3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dubbo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/flush.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jps1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jps2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mq-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mq-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mq-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mq-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mq-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mq-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/producer负载均衡.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pullMessageService实现机制.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/queue1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/queue2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rocketmq-console.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rocketmq-console2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rocketmq-console3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rocketmq存储总结图.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/zk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/下单失败流程图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/下单时序图(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/下单时序图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/下单组件图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/事务消息.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/创建支付订单.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/发送批量消息.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/同步刷盘和异步刷盘.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/同步刷盘流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/回退库存.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/复制刷盘.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/存储文件.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/实体数据实例.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/实体数据实例2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/异步刷盘流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/支付成功数据分发流程图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/支付流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/支付组件图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/文件恢复总体流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/文件操作和网络操作.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/更改用户余额.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/构建消息消费队列和索引文件.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/校验订单(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/校验订单.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/检查订单流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/死信队列主题.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/死信队列主题2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息分发到消息消费队列.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息分发到索引文件.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息发送.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息发送高可用设计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息存储方式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息存储流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息存储结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息拉取基本流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息拉取客户端处理消息.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息拉取流程总结.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息推送.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息服务端Broker组装消息.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/消息消费启动流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/源码1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/源码2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/源码3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/源码4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/源码5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/源码6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/源码7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/源码8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/生产者启动流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/生成预订单.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/磁盘.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/解耦1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/解耦2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/路由删除.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/路由实体图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/路由注册.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/项目初始化.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/项目结构图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-api/src/main/java/com/itheima/api/ICouponService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-api/src/main/java/com/itheima/api/IGoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-api/src/main/java/com/itheima/api/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-api/src/main/java/com/itheima/api/IPayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-api/src/main/java/com/itheima/api/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-common/src/main/java/com/itheima/constant/ShopCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-common/src/main/java/com/itheima/exception/CastException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-common/src/main/java/com/itheima/exception/CustomerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-common/src/main/java/com/itheima/utils/IDWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-coupon-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-coupon-service/src/main/java/com/itheima/shop/CouponServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-coupon-service/src/main/java/com/itheima/shop/mapper/TradeCouponMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-coupon-service/src/main/java/com/itheima/shop/mq/CancelMQListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-coupon-service/src/main/java/com/itheima/shop/service/impl/CouponServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-coupon-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-coupon-service/src/main/resources/com/itheima/shop/mapper/TradeCouponMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/src/main/java/com/itheima/shop/GoodsServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/src/main/java/com/itheima/shop/mapper/TradeGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/src/main/java/com/itheima/shop/mapper/TradeGoodsNumberLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/src/main/java/com/itheima/shop/mapper/TradeMqConsumerLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/src/main/java/com/itheima/shop/mq/CancelMQListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/src/main/java/com/itheima/shop/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/src/main/resources/com/itheima/shop/mapper/TradeGoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/src/main/resources/com/itheima/shop/mapper/TradeGoodsNumberLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-goods-service/src/main/resources/com/itheima/shop/mapper/TradeMqConsumerLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-service/src/main/java/com/itheima/shop/OrderServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-service/src/main/java/com/itheima/shop/mapper/TradeOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-service/src/main/java/com/itheima/shop/mq/CancelMQListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-service/src/main/java/com/itheima/shop/mq/PaymentListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-service/src/main/java/com/itheima/shop/service/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-service/src/main/resources/com/itheima/shop/mapper/TradeOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-service/src/test/java/com/itheima/test/OrderServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-web/src/main/java/com/itheima/shop/OrderWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-web/src/main/java/com/itheima/shop/config/RestTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-web/src/main/java/com/itheima/shop/controller/OrderControllre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-order-web/src/test/java/com/itheima/test/OrderWebTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-service/src/main/java/com/itheima/shop/PayServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-service/src/main/java/com/itheima/shop/mapper/TradeMqProducerTempMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-service/src/main/java/com/itheima/shop/mapper/TradePayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-service/src/main/java/com/itheima/shop/service/impl/PayServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-service/src/main/resources/com/itheima/shop/mapper/TradeMqProducerTempMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-service/src/main/resources/com/itheima/shop/mapper/TradePayMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-service/src/test/java/com/itheima/test/PayServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-web/src/main/java/com/itheima/shop/PayWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-web/src/main/java/com/itheima/shop/config/RestTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-web/src/main/java/com/itheima/shop/controller/PayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pay-web/src/test/java/com/itheima/test/PayWebTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/entity/MQEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeCouponExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeGoodsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeGoodsNumberLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeGoodsNumberLogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeGoodsNumberLogKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeMqConsumerLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeMqConsumerLogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeMqConsumerLogKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeMqProducerTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeMqProducerTempExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeOrderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradePay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradePayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeUserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeUserMoneyLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeUserMoneyLogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-pojo/src/main/java/com/itheima/shop/pojo/TradeUserMoneyLogKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-user-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-user-service/src/main/java/com/itheima/shop/UserServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-user-service/src/main/java/com/itheima/shop/mapper/TradeUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-user-service/src/main/java/com/itheima/shop/mapper/TradeUserMoneyLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-user-service/src/main/java/com/itheima/shop/mq/CancelMQListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-user-service/src/main/java/com/itheima/shop/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-user-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-user-service/src/main/resources/com/itheima/shop/mapper/TradeUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop-user-service/src/main/resources/com/itheima/shop/mapper/TradeUserMoneyLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/main/java/com/shf/springbootdubboconsumer/SpringbootDubboConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/main/java/com/shf/springbootdubboconsumer/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/test/java/com/shf/springbootdubboconsumer/SpringbootDubboConsumerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-interface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-interface/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-interface/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-interface/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-interface/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-interface/src/main/java/com/shf/springbootdubbointerface/SpringbootDubboInterfaceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-interface/src/main/java/com/shf/springbootdubbointerface/service/IUseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-interface/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-interface/src/test/java/com/shf/springbootdubbointerface/SpringbootDubboInterfaceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/java/com/shf/springbootdubboprovider/SpringbootDubboProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/java/com/shf/springbootdubboprovider/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo-provider/src/test/java/com/shf/springbootdubboprovider/SpringbootDubboProviderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/dubbo/dubbo-consumer/springboot-dubbo-consumer (1) (com.itheima.demo).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/dubbo/dubbo-consumer/springboot-dubbo-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/dubbo/dubbo-provider/springboot-dubbo-provider (1) (com.itheima.demo).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/springboot-rocketmq-consumer/springboot-rocketmq-consumer (1) (com.itheima.springboot).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/springboot-rocketmq-consumer/springboot-rocketmq-consumer (2) (com.itheima.springboot).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/springboot-rocketmq-producer/springboot-rocketmq-producer (1) (com.itheima.springboot).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/springboot-rocketmq-producer/springboot-rocketmq-producer (2) (com.itheima.springboot).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/dubbo/dubbo-api/dubbo-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/dubbo/dubbo-consumer/dubbo-consumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码/dubbo/dubbo-provider/dubbo-provider.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/RocketMQ-01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/RocketMQ-02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/RocketMQ-03.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/12.支付后回调.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/2m2s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/Broker故障延迟机制核心类.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/ConsumeMessageService.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/DefaultMQProducer属性.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/DefaultMQProducer类图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/DefaultMQPushConsumer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/DefaultMessageStore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/DispatchRequest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/GroupCommitRequest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/KV存储.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/MQAdmin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/MQProducer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/MQ比较.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/MappedFile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/MappedFileQueue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/MySQL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/NameServer启动流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/NameServer处理路由注册.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/NameServer小结.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/ProcessQueue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/PullRequest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/PullResultExt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/PullStatus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/RocketMQ角色.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/RocketMQ集群.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/RocketMQ集群比较.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/Rocketmq高可用.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/Shop系统图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/Topic路由信息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/TransientStorePool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/broker路由注册.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/consumer负载均衡.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/consumer负载均衡2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/consumer负载均衡3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/dubbo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/flush.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/jps1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/jps2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/mq-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/mq-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/mq-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/mq-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/mq-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/mq-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/producer负载均衡.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/pullMessageService实现机制.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/queue1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/queue2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/rocketmq-console.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/rocketmq-console2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/rocketmq-console3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/rocketmq存储总结图.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/zk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/下单失败流程图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/下单时序图(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/下单时序图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/下单组件图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/事务消息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/创建支付订单.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/发送批量消息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/同步刷盘和异步刷盘.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/同步刷盘流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/回退库存.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/复制刷盘.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/存储文件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/实体数据实例.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/实体数据实例2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/异步刷盘流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/支付成功数据分发流程图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/支付流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/支付组件图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/文件恢复总体流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/文件操作和网络操作.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/更改用户余额.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/构建消息消费队列和索引文件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/校验订单(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/校验订单.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/检查订单流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/死信队列主题.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/死信队列主题2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息分发到消息消费队列.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息分发到索引文件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息发送.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息发送高可用设计.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息存储方式.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息存储流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息存储结构.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息拉取基本流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息拉取客户端处理消息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息拉取流程总结.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息推送.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息服务端Broker组装消息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/消息消费启动流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/源码1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/源码2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/源码3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/源码4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/源码5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/源码6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/源码7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/源码8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/生产者启动流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/生成预订单.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/磁盘.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/解耦1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/解耦2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/路由删除.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/路由实体图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/路由注册.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/项目初始化.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文档/img/项目结构图.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EG4ymbYIMp6EpbFAJnF51TbfWz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/CODE/RocketMQ_Demo02/springboot-dubbo-consumer/src/main/java/com/shf/springbootdubboconsumer",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "46ba7346-bef8-4157-b22e-bfd8b7f2ca3a"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CODE\RocketMQ_Demo02\springboot-dubbo-consumer\src\main\java\com\shf\springbootdubboconsumer" />
+      <recent name="C:\CODE\RocketMQ_Demo02\springboot-dubbo-provider\src\main\java\com\shf\springbootdubboprovider" />
+      <recent name="C:\CODE\RocketMQ_Demo02\springboot-dubbo-interface\src\main\java\com\shf\springbootdubbointerface" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="springboot-dubbo-consumer" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OrderServiceTest.confirmOrder">
+    <configuration name="shop.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/资料/数据库/shop.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="46ba7346-bef8-4157-b22e-bfd8b7f2ca3a" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OrderServiceTest.confirmOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.OrderServiceTest" />
+      <option name="METHOD_NAME" value="confirmOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.shop.OrderWebApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.shop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-pay-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.shop.PayServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.shop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-pay-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.shop.PayWebApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.shop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDubboInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-dubbo-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shf.springbootdubbointerface.SpringbootDubboInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.shop.UserServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.shop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderServiceTest.confirmOrder" />
+        <item itemvalue="Spring Boot.UserServiceApplication" />
+        <item itemvalue="Spring Boot.PayWebApplication" />
+        <item itemvalue="Spring Boot.PayServiceApplication" />
+        <item itemvalue="Spring Boot.OrderWebApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8fb6983a-19ee-4832-94c2-683ac01c3065" name="变更" comment="" />
+      <created>1662208845569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662208845569</updated>
+      <workItem from="1662208845570" duration="17916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
